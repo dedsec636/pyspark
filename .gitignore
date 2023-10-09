@@ -1,0 +1,4 @@
+.history/
+.ipynb_checkpoints/
+Pipfile.lock
+Pipefile
